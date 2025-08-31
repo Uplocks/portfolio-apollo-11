@@ -14,9 +14,11 @@ Este projeto foi criado como um exercício para praticar lógica de programaçã
 - **Backend:** PHP
 
 ## 📷 Screenshots
-<img width="605" height="563" alt="image" src="https://github.com/user-attachments/assets/22d3524e-b59e-4ff6-8cd0-4bc8452c2c85" />
-<img width="829" height="860" alt="image" src="https://github.com/user-attachments/assets/856c7d14-2953-4bdd-a166-449602f976c0" />
-<img width="903" height="855" alt="image" src="https://github.com/user-attachments/assets/697568cf-b58f-40bf-8d31-1659b3a19950" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a14c6b5c-78e1-465d-adbc-04b2000b8d6d" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/eb1719ca-ea32-48db-b19b-8ebbc66152e8" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ae1f11e6-5350-4868-b047-0597035fb2b0" />
+
+
 
 
 
