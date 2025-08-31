@@ -14,7 +14,7 @@ $distancia_foguete = 0;
 $combustivel_atual = $combustivel_inicial;
 $historico_combustivel = [];
 
-/* Loop da simulação */
+/* LOOP */
 while ($combustivel_atual >= $consumo && $distancia_foguete < lua_distancia) {
     $historico_combustivel[] = [
         "trecho" => ($distancia_foguete / trecho_km) + 1,
@@ -43,7 +43,6 @@ $missao_sucesso = ($distancia_foguete >= lua_distancia);
         <?php 
         if ($missao_sucesso) {
             echo '<h3>Um pequeno passo para o homem, mas um grande passo para a humanidade!</h3>';
-            // CORRIGIDO: Usando a variável $nome_completo que foi definida no topo
             echo '<h4> Parabéns, '. $nome_completo ."! </h4>";
             echo '<img src="images/astronauta_feliz.png" alt="Sucesso" width="200">';
             echo '<p>Combustível restante: <strong>' . round($combustivel_atual, 2) . ' litros</strong>.</p>';
